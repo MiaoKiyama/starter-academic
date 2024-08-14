@@ -66,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-Qi Ye (in Chinese: 叶琪) is currently pursuing his Bachelor’s Degree of Software Engineering at Tongji University, Shanghai, China. He has been closely working with Prof. Hongming Zhu of Lab of Tongji University for nearly two years, 还没写完。。。。
+Qi Ye (in Chinese: 叶琪) is currently pursuing his Bachelor’s Degree of Software Engineering at Tongji University, Shanghai, China. He has been closely working with Prof. Hongming Zhu of Lab of Tongji University for nearly two years,就这样吧
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
